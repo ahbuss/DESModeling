@@ -1,0 +1,3 @@
+TODO
+
+- Section on Simkits RandomVariate interface, with list of distributions
