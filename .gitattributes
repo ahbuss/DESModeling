@@ -10,3 +10,4 @@
 *.vsdx filter=lfs diff=lfs merge=lfs -text
 *.vsdm filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
