@@ -11,3 +11,4 @@
 *.vsdm filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+SimPyKit.pptx filter=lfs diff=lfs merge=lfs -text
